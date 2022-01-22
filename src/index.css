@@ -11,3 +11,22 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+#aa{
+  display: grid;
+  grid-template-columns: auto auto auto auto auto auto auto auto;
+  width: 50%;
+}
+.desing{
+  border: 1px #fff solid;
+  font-size: 2em;
+  text-align: center;
+}
+.red{
+  background-color: red;
+}
+.yellow{
+  background-color: yellow;
+}
+.green{
+  background-color: green;
+}
